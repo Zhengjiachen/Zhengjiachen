@@ -1,4 +1,4 @@
-## Hi there 👋  I'm Jiachen.
+# Hello, I'm Jiachen.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 
